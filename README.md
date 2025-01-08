@@ -1,4 +1,5 @@
 
+![AdobeStock_1120100857](https://github.com/user-attachments/assets/e9b83988-db5f-4790-88c7-2781c4722854)
 # Manipulex
 
 Manipulex is a powerful text analysis tool designed to detect and analyze manipulative or gaslighting language in written communication. By leveraging natural language processing techniques and psychological insights, Manipulex empowers users to uncover hidden intentions behind words.
